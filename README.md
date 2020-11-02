@@ -1,44 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">LinkedIn UI Clone</h1>
+<h4 align="center">
+  <img src="./.github/preview.gif" /><br>
+</h4>
 
-## Available Scripts
+<p align="center">
+  <a href="https://linkedin-by-lucas.netlify.app/">Web App</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#video_game-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-author">Author</a>
+</p>
 
-In the project directory, you can run:
+## :wrench: Built With
 
-### `yarn start`
+- [React](https://reactjs.org)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 About
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+This is a UI Clone on LinkedIn to learn how to work with Shimmer Effect. Shimmer Effect is a Skeleton UI to show while the application is loading all the data needed. You can see this effect in LinkedIn interface, Youtube, Nubank and so much more applications.
 
-### `yarn test`
+## :video_game: How to Use
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Online
 
-### `yarn build`
+You can use the application online [here](https://linkedin-by-lucas.netlify.app/.)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Locally
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Clone the project: `git clone https://github.com/Lukazovic/linkedin-clone-react-app.git`;
+- Go to the project folder: `cd linkedin-clone-react-app`;
+- Download the dependencies: `yarn`;
+- Start the application: `yarn start`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+It will open a browser page (if it doesn't, go to [http://localhost:3000](http://localhost:3000/)).
 
-### `yarn eject`
+## 🤔 How to Contribute
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Fork this repository;
+- Create your branch with your feature: `git checkout -b my-feature`;
+- Commit your feature: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Then merge your pull request, you can now delete your branch
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :pencil: Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Lukazovic"><img src="https://avatars0.githubusercontent.com/u/54550926?s=460&u=cdeeac652ce0597a986fbdcff6e249ad27a1f1da&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Vieira</b></sub></a><br /></td>
+  <tr>
+</table>
