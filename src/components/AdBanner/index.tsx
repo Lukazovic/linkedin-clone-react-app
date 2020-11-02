@@ -5,7 +5,7 @@ import { Container } from './styles';
 const AdBanner: React.FC = () => {
   return (
     <Container className="ad-banner">
-      <span>Rocketseat - </span>
+      <span>Lucas Vieira - </span>
       Interface reproduzida em busca do próximo nível.
     </Container>
   );
