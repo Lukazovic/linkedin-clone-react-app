@@ -20,10 +20,10 @@ const FeedPost: React.FC = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar src="https://github.com/lukazovic.png" alt="Lucas Vieira" />
           <Column>
-            <h3>Rocketseat</h3>
-            <h4>Instituição de ensino</h4>
+            <h3>Lucas Vieira</h3>
+            <h4>Software Engineer @Codeminer42</h4>
             <time>1 sem</time>
           </Column>
         </Row>
